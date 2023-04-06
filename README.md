@@ -1,2 +1,1 @@
-# MDTeams K9 Mod
-[Modrinth](https://modrinth.com/mod/k9-mod)
+# Moved to [here](https://github.com/M-D-Team/k9)
